@@ -44,7 +44,7 @@ Siga os passos abaixo para obter e configurar o projeto:
 
 1.  Clone este repositório para sua máquina local:
     ```bash
-    git clone https://github.com/masanvasg/Imersao-Alura
+    git clone https:Projeto.ipynb
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
